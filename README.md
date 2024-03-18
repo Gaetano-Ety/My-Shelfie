@@ -19,17 +19,17 @@ To transmit data we used TCP protocol between server and clients along with JSON
 ## Screenshots
 
 ## Gui 
-![image2](resources/readMeImages/guiImage.png)<br> <br>
+![image2](TopiDiLibreria/resources/readMeImages/guiImage.png)<br> <br>
 
-![image2](resources/readMeImages/gameImages.png)<br> <br>
+![image2](TopiDiLibreria/resources/readMeImages/gameImages.png)<br> <br>
 
-![image1](resources/readMeImages/goalAchived.png) <br>
+![image1](TopiDiLibreria/resources/readMeImages/goalAchived.png) <br>
 
 ## Cli
 
-![image3](resources/readMeImages/cliImage.png) <br>
+![image3](TopiDiLibreria/resources/readMeImages/cliImage.png) <br>
 
-![image3](resources/readMeImages/cliImage2.png) <br>
+![image3](TopiDiLibreria/resources/readMeImages/cliImage2.png) <br>
 
 
 
